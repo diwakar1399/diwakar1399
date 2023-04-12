@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diwakar1399
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
